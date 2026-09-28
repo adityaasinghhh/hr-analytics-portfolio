@@ -1,0 +1,13 @@
+HR DATA_Excel.xlsx
+hrdata.csv
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
